@@ -1,3 +1,3 @@
-Work in progress
+A Dash.app docset for express.js
 
-Greatly copied from <https://github.com/exlee/d3-dash-gen>
+Still a bit of a work in progress but currently usable.
