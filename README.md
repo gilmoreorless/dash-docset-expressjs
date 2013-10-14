@@ -1,6 +1,8 @@
-A [Dash.app](dash) docset for [express.js](express)
+A [Dash.app](dash) docset (and generator) for [express.js](express)
 
-Still a bit of a work in progress but currently usable.
+This was the result of a single day's experiment. I had planned to improve it and regularly keep it up to date, but then Dash 1.9.1 was released with a docset for Express that is better than this one.
+
+So I'm going to call this project a learning experience, and leave it around as a template for future docsets, but it's not going to be updated any more.
 
 ## Development/build process
 

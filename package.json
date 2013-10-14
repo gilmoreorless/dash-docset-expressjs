@@ -1,6 +1,6 @@
 {
-  "name": "express-dash-docset",
-  "description": "Express.js Dash docset generator",
+  "name": "dash-docset-expressjs",
+  "description": "Dash docset generator for Express.js",
   "author": "Gilmore Davidson",
   "version": "0.1.0",
   "dependencies": {
